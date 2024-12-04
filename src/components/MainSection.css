@@ -1,0 +1,128 @@
+.main-section {
+  background-color: #000;
+  padding: 40px 20px;
+  width: 100%;
+  align-items: center;
+}
+
+h1, h2, h3 {
+  color: #fff;
+}
+
+.bloque-principal {
+  color: #fff;
+}
+
+.bloque-txt, .bloque-img {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  padding: 40px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  align-items: center;
+  font-size: 1rem; /* Ajuste general */
+}
+
+.pre-carousel-center {
+  color: #fff;
+  height: auto;
+  padding: 50px 10px;
+  background-image: url("./images/fondo_madera.webp");
+  background-size: cover;
+  background-position: center;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.btn-outline-light {
+  border-color: #fff;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
+
+.btn-outline-light:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.carousel-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+
+.carousel-center {
+  display: flex;
+  justify-content: center;
+  border-top: solid white 1px;
+  border-bottom: solid white 1px;
+}
+
+/* Responsividad */
+@media (max-width: 1024px) {
+  .bloque-txt, .bloque-img {
+    padding: 30px;
+    font-size: 0.9rem;
+  }
+
+  .carousel-image {
+    max-width: 80%;
+  }
+
+  .btn-outline-light {
+    font-size: 0.9rem;
+  }
+
+  .pre-carousel-center {
+    padding: 30px 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .bloque-txt, .bloque-img {
+    padding: 20px;
+    font-size: 0.8rem;
+  }
+
+  .carousel-image {
+    max-width: 100%;
+  }
+
+  h1, h2 {
+    font-size: 1.5rem;
+  }
+
+  .pre-carousel-center {
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .bloque-txt, .bloque-img {
+    padding: 10px;
+    font-size: 0.7rem;
+  }
+
+  .carousel-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .btn-outline-light {
+    font-size: 0.8rem;
+  }
+
+  h1, h2, h3 {
+    font-size: 1.2rem;
+  }
+
+  .pre-carousel-center {
+    padding: 20px;
+  }
+}
+
+

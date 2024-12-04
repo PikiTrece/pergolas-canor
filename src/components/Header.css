@@ -1,0 +1,79 @@
+.navbar {
+  width: 100%;
+}
+
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  text-decoration: none; /* Elimina subrayado */
+  border: none; /* Elimina cualquier borde */
+}
+
+.navbar .justify-content-center {
+  flex: 1;
+}
+
+.navbar .d-flex.align-items-end {
+  text-align: right;
+}
+
+/* Estilo para los íconos de las redes sociales */
+.whatsapp-icon,
+.facebook-icon,
+.instagram-icon {
+  color: #ffffff; /* Color blanco por defecto */
+  transition: color 0.3s ease; /* Transición suave para el color */
+}
+
+/* Cambiar color en el hover */
+.whatsapp-icon:hover {
+  color: #25d366; /* Color oficial de WhatsApp al pasar el ratón */
+}
+
+.facebook-icon:hover {
+  color: #3b5998; /* Color oficial de Facebook al pasar el ratón */
+}
+
+.instagram-icon:hover {
+  color: #e4405f; /* Color oficial de Instagram al pasar el ratón */
+}
+
+.navbar-brand span {
+  text-decoration: none;
+  border: none;
+}
+
+.navbar-brand:focus,
+.navbar-brand:hover,
+.navbar-brand:active {
+  text-decoration: none; /* Asegura que no se muestre el subrayado en los estados de foco, hover y activo */
+  outline: none; /* Remueve cualquier borde que aparezca al enfocar */
+}
+
+a {
+  text-decoration: none;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+}
+
+.navbar-brand a {
+  text-decoration: none !important;
+  border: none !important;
+  border-bottom: none !important;
+  outline: none !important;
+}
+
+.navbar-brand a:focus, .navbar-brand a:hover, .navbar-brand a:active, .navbar-brand a:visited {
+  text-decoration: none;
+  border: none;
+  border-bottom: none !important; /* Elimina borde en todos los estados */
+  outline: none; /* Elimina borde de foco */
+}

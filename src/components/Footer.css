@@ -1,0 +1,56 @@
+footer {
+  background-color: #1a1a1a;
+  padding: 20px;
+}
+
+footer h3, footer h5 {
+  color: #ffffff;
+}
+
+footer p, footer .nav-link {
+  color: #cccccc;
+}
+
+footer .btn {
+  width: 45%;
+  margin-bottom: 10px; /* Espaciado entre botones */
+}
+
+footer .btn-outline-light {
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+footer .btn-success {
+  margin-top: 10px; /* Espaciado adicional entre el botón y otros elementos */
+}
+
+footer .text-center {
+  padding: 10px 0; /* Espaciado interno para evitar aglomeración */
+}
+
+/* Responsividad */
+@media (max-width: 768px) {
+  footer .btn {
+    width: 100%; /* Los botones ocupan el ancho completo en pantallas pequeñas */
+    margin-bottom: 15px; /* Espaciado mayor entre botones */
+  }
+
+  footer .text-center {
+    margin-bottom: 20px; /* Separación extra para evitar que el contenido quede pegado */
+  }
+}
+
+@media (max-width: 480px) {
+  footer p, footer .nav-link {
+    font-size: 0.9rem; /* Texto más pequeño para mejor ajuste */
+  }
+
+  footer h3, footer h5 {
+    font-size: 1rem;
+  }
+
+  footer .btn {
+    margin-top: 15px; /* Espaciado suficiente en dispositivos pequeños */
+  }
+}
