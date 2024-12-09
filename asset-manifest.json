@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/pergolas-canor/static/css/main.6217bb5b.chunk.css",
-    "main.js": "/pergolas-canor/static/js/main.5b34f68a.chunk.js",
-    "main.js.map": "/pergolas-canor/static/js/main.5b34f68a.chunk.js.map",
+    "main.js": "/pergolas-canor/static/js/main.c84cebf2.chunk.js",
+    "main.js.map": "/pergolas-canor/static/js/main.c84cebf2.chunk.js.map",
     "runtime-main.js": "/pergolas-canor/static/js/runtime-main.e91436a7.js",
     "runtime-main.js.map": "/pergolas-canor/static/js/runtime-main.e91436a7.js.map",
     "static/css/2.b71989ea.chunk.css": "/pergolas-canor/static/css/2.b71989ea.chunk.css",
-    "static/js/2.ccda274d.chunk.js": "/pergolas-canor/static/js/2.ccda274d.chunk.js",
-    "static/js/2.ccda274d.chunk.js.map": "/pergolas-canor/static/js/2.ccda274d.chunk.js.map",
+    "static/js/2.b4467f1b.chunk.js": "/pergolas-canor/static/js/2.b4467f1b.chunk.js",
+    "static/js/2.b4467f1b.chunk.js.map": "/pergolas-canor/static/js/2.b4467f1b.chunk.js.map",
     "static/js/3.c9be4d79.chunk.js": "/pergolas-canor/static/js/3.c9be4d79.chunk.js",
     "static/js/3.c9be4d79.chunk.js.map": "/pergolas-canor/static/js/3.c9be4d79.chunk.js.map",
     "index.html": "/pergolas-canor/index.html",
-    "precache-manifest.7367847bb4accf5067f193796367d6da.js": "/pergolas-canor/precache-manifest.7367847bb4accf5067f193796367d6da.js",
+    "precache-manifest.807addebca2c24f69ec62207f0a73fce.js": "/pergolas-canor/precache-manifest.807addebca2c24f69ec62207f0a73fce.js",
     "service-worker.js": "/pergolas-canor/service-worker.js",
     "static/css/2.b71989ea.chunk.css.map": "/pergolas-canor/static/css/2.b71989ea.chunk.css.map",
     "static/css/main.6217bb5b.chunk.css.map": "/pergolas-canor/static/css/main.6217bb5b.chunk.css.map",
-    "static/js/2.ccda274d.chunk.js.LICENSE.txt": "/pergolas-canor/static/js/2.ccda274d.chunk.js.LICENSE.txt",
+    "static/js/2.b4467f1b.chunk.js.LICENSE.txt": "/pergolas-canor/static/js/2.b4467f1b.chunk.js.LICENSE.txt",
     "static/media/MainSection.css": "/pergolas-canor/static/media/fondo_madera.a50b68a6.webp",
     "static/media/img-01.jpg": "/pergolas-canor/static/media/img-01.3a975867.jpg",
     "static/media/img-02.webp": "/pergolas-canor/static/media/img-02.d53c3300.webp",
@@ -62,8 +62,8 @@
   "entrypoints": [
     "static/js/runtime-main.e91436a7.js",
     "static/css/2.b71989ea.chunk.css",
-    "static/js/2.ccda274d.chunk.js",
+    "static/js/2.b4467f1b.chunk.js",
     "static/css/main.6217bb5b.chunk.css",
-    "static/js/main.5b34f68a.chunk.js"
+    "static/js/main.c84cebf2.chunk.js"
   ]
 }

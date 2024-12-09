@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6e912dd05b0850e1bb1b37dec3a3c6b",
+    "revision": "46d259e4391745661adc55fa2449cbf8",
     "url": "/pergolas-canor/index.html"
   },
   {
-    "revision": "6e44c0c67f0e67f0eec9",
+    "revision": "e5588fd028f188ea76fe",
     "url": "/pergolas-canor/static/css/2.b71989ea.chunk.css"
   },
   {
-    "revision": "1dca1182312a296c584a",
+    "revision": "3c0f3894061d00294fed",
     "url": "/pergolas-canor/static/css/main.6217bb5b.chunk.css"
   },
   {
-    "revision": "6e44c0c67f0e67f0eec9",
-    "url": "/pergolas-canor/static/js/2.ccda274d.chunk.js"
+    "revision": "e5588fd028f188ea76fe",
+    "url": "/pergolas-canor/static/js/2.b4467f1b.chunk.js"
   },
   {
     "revision": "9a87d441d6f1d11956d517a23294f3df",
-    "url": "/pergolas-canor/static/js/2.ccda274d.chunk.js.LICENSE.txt"
+    "url": "/pergolas-canor/static/js/2.b4467f1b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "34cac77e9427195af6d7",
     "url": "/pergolas-canor/static/js/3.c9be4d79.chunk.js"
   },
   {
-    "revision": "1dca1182312a296c584a",
-    "url": "/pergolas-canor/static/js/main.5b34f68a.chunk.js"
+    "revision": "3c0f3894061d00294fed",
+    "url": "/pergolas-canor/static/js/main.c84cebf2.chunk.js"
   },
   {
     "revision": "8da6e60e16536618e701",
