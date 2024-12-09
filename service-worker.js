@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pergolas-canor/precache-manifest.103eb0a5e9276d4c7aef9db3cf389f2e.js"
+  "/pergolas-canor/precache-manifest.7367847bb4accf5067f193796367d6da.js"
 );
 
 self.addEventListener('message', (event) => {
